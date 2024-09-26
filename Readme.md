@@ -1,2 +1,2 @@
 # RetailSalesProject
-## P1- analysed a retail sales data 
+## P1- analysed retail sales data 
